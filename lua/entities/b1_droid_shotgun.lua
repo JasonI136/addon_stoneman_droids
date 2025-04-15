@@ -7,7 +7,7 @@ ENT.IsStonemanDroids = true
 ENT.MaxHP = 125
 
 ENT.DroidType = "gunner_shotgun"
-ENT.WeaponDamage = 10
+ENT.WeaponDamage = 4
 
 ENT.VisionRange = 1024
 ENT.IsFriendly = false

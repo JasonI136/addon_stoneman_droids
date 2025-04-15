@@ -13,7 +13,7 @@ ENT.VisionRange = 6000
 ENT.IsFriendly = false
 
 ENT.MDL = "models/eng_lt/pm_droid_b1_eng_lt.mdl"
-ENT.WeaponModel = ""
+ENT.WeaponModel = "models/kuro/sw_battlefront/weapons/e5_blaster.mdl"
 
 ENT.FireRate = 0.5
 ENT.MagazineSize = 30

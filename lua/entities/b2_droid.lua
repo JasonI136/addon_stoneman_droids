@@ -4,7 +4,7 @@ ENT.Spawnable		= true
 
 ENT.IsStonemanDroids = true
 
-ENT.MaxHP = 500
+ENT.MaxHP = 1000
 
 ENT.DroidType = "gunner_performance"
 ENT.WeaponDamage = 19

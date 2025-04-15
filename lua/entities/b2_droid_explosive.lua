@@ -4,7 +4,7 @@ ENT.Spawnable		= true
 
 ENT.IsStonemanDroids = true
 
-ENT.MaxHP = 500
+ENT.MaxHP = 800
 
 ENT.DroidType = "explosive"
 ENT.WeaponDamage = 1
