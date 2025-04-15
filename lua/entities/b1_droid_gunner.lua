@@ -7,18 +7,18 @@ ENT.IsStonemanDroids = true
 ENT.MaxHP = 125
 
 ENT.DroidType = "gunner_performance"
-ENT.WeaponDamage = 12
+ENT.WeaponDamage = 10
 
 ENT.VisionRange = 5000
 ENT.IsFriendly = false
 
 ENT.MDL = "models/aussiwozzi/cgi/b1droids/b1_battledroid_heavy.mdl"
-ENT.WeaponModel = "models/kraken/cgi/v_cgi_e5c.mdl"
+ENT.WeaponModel = "models/kuro/sw_battlefront/weapons/e5c_blaster.mdl"
 
-ENT.FireRate = 3
-ENT.MagazineSize = 50
+ENT.FireRate = 0.1
+ENT.MagazineSize = 60
 
-ENT.WeaponSpread = Vector( 0.05, 0.01, 0 )
+ENT.WeaponSpread = Vector( 0.1, 0.1, 0 )
 ENT.DroidTeam = "cis"
 
 ENT.FireSound = "w/e5.wav"
