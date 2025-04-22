@@ -21,7 +21,7 @@ ENT.MagazineSize = 60
 ENT.WeaponSpread = Vector( 0.1, 0.1, 0 )
 ENT.DroidTeam = "cis"
 
-ENT.FireSound = "w/e5.wav"
+ENT.FireSound = "kraken/cgi/e5/e5c.wav"
 
 function ENT:SetupDataTables()
 	self:BaseDataTBL()
